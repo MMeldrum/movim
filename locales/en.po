@@ -148,8 +148,8 @@ msgid "API"
 msgstr "API"
 
 #: [about]info
-msgid "Movim is an XMPP-based communication platform. All the project, except the following software and resources, is under"
-msgstr "Movim is an XMPP-based communication platform. All the project, except the following software and resources, is under"
+msgid "Movim is an XMPP-based communication platform. The whole project, except the following software and resources, is under"
+msgstr "Movim is an XMPP-based communication platform. The whole project, except the following software and resources, is under"
 
 #: [account]title [page]account
 msgid "Account"
@@ -204,8 +204,8 @@ msgid "Leave this instance"
 msgstr "Leave this instance"
 
 #: [account]clear_text
-msgid "You will delete all the relative information linked to your account on this Movim instance (profile, contacts and publications)."
-msgstr "You will delete all the relative information linked to your account on this Movim instance (profile, contacts and publications)."
+msgid "You will delete all the information related to your account on this Movim instance (profile, contacts and publications)."
+msgstr "You will delete all the information related to your account on this Movim instance (profile, contacts and publications)."
 
 #: [account]clear_text_confirm
 msgid "This action will not delete your account but will disconnect you from this instance."
@@ -820,8 +820,8 @@ msgid "Community created successfully"
 msgstr "Community created successfully"
 
 #: [communitiesserver]empty_server
-msgid "There is no Communities yet on this server."
-msgstr "There is no Communities yet on this server."
+msgid "There are currently no Communities on this server."
+msgstr "There are currently no Communities on this server."
 
 #: [communitiesserver]add
 msgid "Create a new community on %s"
@@ -1057,8 +1057,8 @@ msgid "Main chat page"
 msgstr "Main chat page"
 
 #: [config]chatmain_text
-msgid "Make the chat page as the default one"
-msgstr "Make the chat page as the default one"
+msgid "Set the chat page as default"
+msgstr "Set the chat page as default"
 
 #: [config]mam
 msgid "Archiving preferences"
@@ -1097,8 +1097,8 @@ msgid "Confirmation of authentication"
 msgstr "Confirmation of authentication"
 
 #: [confirm]description
-msgid "The following platform would like your confirmation to authentify this account"
-msgstr "The following platform would like your confirmation to authentify this account"
+msgid "The following platform would like your confirmation to authenticate this account"
+msgstr "The following platform would like your confirmation to authenticate this account"
 
 #: [confirm]code
 msgid "Authentication code"
@@ -1181,8 +1181,8 @@ msgid "Links"
 msgstr "Links"
 
 #: [position]legend
-msgid "Geographic Position"
-msgstr "Geographic Position"
+msgid "Geographic Location"
+msgstr "Geographic Location"
 
 #: [position]locality
 msgid "Locality"
@@ -1309,8 +1309,8 @@ msgid "By default the content is only available to your contacts. You can make y
 msgstr "By default the content is only available to your contacts. You can make your profile and publications public by enabling the related setting."
 
 #: [faq]permission_community_title
-msgid "How does it applies on Communities posts?"
-msgstr "How does it applies on Communities posts?"
+msgid "How does it apply on Communities posts?"
+msgstr "How does it apply on Communities posts?"
 
 #: [faq]permission_community_text
 msgid "Similary to your blog publications except that, by default, the posts are only available to the members or subscribers of the Community (except if you explicitly open all the Community content)"
@@ -1373,8 +1373,8 @@ msgid "XMPP Domain error, your account is not a correct Jabber ID"
 msgstr "XMPP Domain error, your account is not a correct Jabber ID"
 
 #: [error]data_missings
-msgid "Some data are missing!"
-msgstr "Some data are missing!"
+msgid "Some data is missing!"
+msgstr "Some data is missing!"
 
 #: [error]wrong_password
 msgid "Wrong password"
@@ -1393,8 +1393,8 @@ msgid "Account successfully created"
 msgstr "Account successfully created"
 
 #: [error]timeout
-msgid "The server takes too much time to respond"
-msgstr "The server takes too much time to respond"
+msgid "The server is taking too long to respond"
+msgstr "The server is taking too long to respond"
 
 #: [error]impossible
 msgid "Impossible login"
@@ -1417,16 +1417,16 @@ msgid "Your XMPP server is unauthorized"
 msgstr "Your XMPP server is unauthorized"
 
 #: [error]wrong_account
-msgid "Movim failed to authenticate. You entered wrong data"
-msgstr "Movim failed to authenticate. You entered wrong data"
+msgid "Movim failed to authenticate. You entered incorrect data"
+msgstr "Movim failed to authenticate. You entered incorrect data"
 
 #: [error]mechanism
 msgid "Authentication mechanism not supported by Movim"
 msgstr "Authentication mechanism not supported by Movim"
 
 #: [error]fail_auth
-msgid "The XMPP authentification failed"
-msgstr "The XMPP authentification failed"
+msgid "The XMPP authentication failed"
+msgstr "The XMPP authentication failed"
 
 #: [connection]socket_connected
 msgid "Connected to the server"
@@ -1473,8 +1473,8 @@ msgid "No news yet…"
 msgstr "No news yet…"
 
 #: [menu]empty
-msgid "Welcome on your news feed, here you will see all the posts published by your contacts and in the communities you have subscribed."
-msgstr "Welcome on your news feed, here you will see all the posts published by your contacts and in the communities you have subscribed."
+msgid "Welcome to your news feed, here you will see all the posts published by your contacts and in the communities you have subscribed to."
+msgstr "Welcome to your news feed, here you will see all the posts published by your contacts and in the communities you have subscribed to."
 
 #: [menu]all
 msgid "All"
@@ -1497,8 +1497,8 @@ msgid "Pending Invitations"
 msgstr "Pending Invitations"
 
 #: [invitations]wants_to_talk
-msgid "%s wants to talk with you"
-msgstr "%s wants to talk with you"
+msgid "%s wants to talk to you"
+msgstr "%s wants to talk to you"
 
 #: [notifs]title [onboarding]notifications_title [room]notify_title
 msgid "Notifications"
@@ -1521,8 +1521,8 @@ msgid "Public profile"
 msgstr "Public profile"
 
 #: [onboarding]public_text
-msgid "Make your profile public and allow other users to find you and make new contacts more easily"
-msgstr "Make your profile public and allow other users to find you and make new contacts more easily"
+msgid "Make your profile public, allowing other users to find you and make new contacts more easily"
+msgstr "Make your profile public, allowing other users to find you and make new contacts more easily"
 
 #: [onboarding]public_text_second
 msgid "You can always disable this in the configuration afterwards"
@@ -1533,12 +1533,12 @@ msgid "Popups"
 msgstr "Popups"
 
 #: [onboarding]popups_text
-msgid "Movim is using popups for the video-conference feature, they are sometime blocked by the browsers"
-msgstr "Movim is using popups for the video-conference feature, they are sometime blocked by the browsers"
+msgid "Movim uses popups for the video-conference feature - these are sometime blocked by the browsers"
+msgstr "Movim uses popups for the video-conference feature - these are sometime blocked by the browsers"
 
 #: [onboarding]popups_text_second
-msgid "Please be sure that they are enabled to use this feature properly"
-msgstr "Please be sure that they are enabled to use this feature properly"
+msgid "Please ensure that they are enabled to use this feature properly"
+msgstr "Please ensure that they are enabled to use this feature properly"
 
 #: [post]news_feed
 msgid "News Feed"
@@ -1565,8 +1565,8 @@ msgid "What’s Hot"
 msgstr "What’s Hot"
 
 #: [post]hot_text
-msgid "Posts recently published in communities that you are not subscribed (yet)"
-msgstr "Posts recently published in communities that you are not subscribed (yet)"
+msgid "Posts recently published in communities that you are not subscribed to (yet)"
+msgstr "Posts recently published in communities that you are not subscribed to (yet)"
 
 #: [post]new [publish]new [publishbrief]new
 msgid "New post"
@@ -1677,8 +1677,8 @@ msgid "Oh! Hello!"
 msgstr "Oh! Hello!"
 
 #: [hello]enter_paragraph
-msgid "It seems that you’re new there! Welcome on Movim!"
-msgstr "It seems that you’re new there! Welcome on Movim!"
+msgid "It seems that you’re new here! Welcome to Movim!"
+msgstr "It seems that you’re new here! Welcome to Movim!"
 
 #: [hello]menu_title
 msgid "Check the Menu"
@@ -1689,8 +1689,8 @@ msgid "All the main Movim features are accessible there. Don’t hesitate to nav
 msgstr "All the main Movim features are accessible there. Don’t hesitate to navigate through the pages to discover more!"
 
 #: [hello]profile_title
-msgid "Looks like you didn’t complete your profile yet"
-msgstr "Looks like you didn’t complete your profile yet"
+msgid "Looks like you haven’t completed your profile yet"
+msgstr "Looks like you haven’t completed your profile yet"
 
 #: [hello]profile_paragraph
 msgid "You can go in the Configuration page to describe yourself and put a nice picture"
@@ -1809,8 +1809,8 @@ msgid "You don’t have any chatrooms yet."
 msgstr "You don’t have any chatrooms yet."
 
 #: [rooms]empty_text2
-msgid "Add one by clicking on the add button."
-msgstr "Add one by clicking on the add button."
+msgid "Add one by clicking the add button."
+msgstr "Add one by clicking the add button."
 
 #: [rooms]empty_synchronize_title
 msgid "You had some rooms previously listed?"
@@ -1913,8 +1913,8 @@ msgid "Banned"
 msgstr "Banned"
 
 #: [chatrooms]bad_nickname
-msgid "Please enter a correct nickname (2 to 40 characters)"
-msgstr "Please enter a correct nickname (2 to 40 characters)"
+msgid "Please enter a valid nickname (2 to 40 characters)"
+msgstr "Please enter a valid nickname (2 to 40 characters)"
 
 #: [chatrooms]conflict
 msgid "Username already taken"
@@ -1981,8 +1981,8 @@ msgid "You are currently logged as an anonymous user."
 msgstr "You are currently logged as an anonymous user."
 
 #: [room]anonymous_text2
-msgid "You can join using your own account or create one on the login page by loging out using the cross in the top-right corner."
-msgstr "You can join using your own account or create one on the login page by loging out using the cross in the top-right corner."
+msgid "You can join using your own account or create one on the login page by logging out using the cross in the top-right corner."
+msgstr "You can join using your own account or create one on the login page by logging out using the cross in the top-right corner."
 
 #: [room]anonymous_login
 msgid "Login on %s"
@@ -2217,8 +2217,8 @@ msgid "Powered by Tenor"
 msgstr "Powered by Tenor"
 
 #: [subscribe]info
-msgid "Movim is a decentralized social network, before creating a new account you need to choose a server to register."
-msgstr "Movim is a decentralized social network, before creating a new account you need to choose a server to register."
+msgid "Movim is a decentralized social network. Before creating a new account you need to choose a server to register."
+msgstr "Movim is a decentralized social network. Before creating a new account you need to choose a server to register."
 
 #: [subscribe]server_question
 msgid "Your server here?"
@@ -2506,8 +2506,8 @@ msgid "Whoops!"
 msgstr "Whoops!"
 
 #: [error]websocket
-msgid "Movim cannot talk with the server, please try again later"
-msgstr "Movim cannot talk with the server, please try again later"
+msgid "Movim cannot communicate with the server, please try again later"
+msgstr "Movim cannot communicate with the server, please try again later"
 
 #: [error]websocket_connect
 msgid "Reconnection to the server…"
@@ -3167,8 +3167,8 @@ msgid "by"
 msgstr "by"
 
 #: [post]geolocalisation
-msgid "Geolocalisation"
-msgstr "Geolocalisation"
+msgid "Geolocation"
+msgstr "Geolocation"
 
 #: [post]email
 msgid "email"
