@@ -2301,8 +2301,8 @@ msgid "Is this profile public?"
 msgstr "Is this profile public?"
 
 #: [profile]privacy_info
-msgid "Please pay attention! By making your profile public, all the information listed below will be available for all the Movim users and on the whole Internet."
-msgstr "Please pay attention! By making your profile public, all the information listed below will be available for all the Movim users and on the whole Internet."
+msgid "Please pay attention! By making your profile public, all the information listed above will be available for all the Movim users and on the whole Internet."
+msgstr "Please pay attention! By making your profile public, all the information listed above will be available for all the Movim users and on the whole Internet."
 
 #: [profile]nickname_info
 msgid "Set a local nickname to allow the other users of the instance to find you easily."
